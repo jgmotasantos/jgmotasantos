@@ -5,6 +5,5 @@
 - ⚡ Sempre pronto para trabalhar em equipe
 
 <div>
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=jgmotasantos">
-  <img height=180em src="https://github.com/jgmotasantos/github-readme-stats">
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 <div>
